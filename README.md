@@ -1,1 +1,1 @@
-[](img.png)
+![Screenshot](img.png "Screenshot")
