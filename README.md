@@ -1,2 +1,2 @@
 ### Screenshot
-![Screenshot](img.png "Screenshot")
+![Screenshot](img.jpg "Screenshot")
